@@ -11,8 +11,8 @@
         var self = this;
 
         var toBuyItems = [
-            { name: "bags of cookies", quantity: 10 }, 
-            { name: "cases of soda", quantity: 10 },  
+            { name: "bags of cookies", quantity: 10 },
+            { name: "cases of soda", quantity: 10 },
             { name: "orange", quantity: 1 },
             { name: "onion", quantity: 1 },
             { name: "pear", quantity: 1 }
